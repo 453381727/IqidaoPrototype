@@ -8,29 +8,41 @@
   margin-right:0;
   text-align:left;
 }
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
 #base {
   position:absolute;
   z-index:0;
 }
-#u12361_img {
+#u6943_img {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:1022px;
   height:692px;
 }
-#u12361 {
+#u6943 {
+  border-width:0px;
   position:absolute;
   left:38px;
   top:61px;
   width:1022px;
   height:692px;
+  display:flex;
 }
-#u12362 {
+#u6943 .text {
   position:absolute;
-  left:2px;
-  top:338px;
-  width:1018px;
-  visibility:hidden;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u6943_text {
+  border-width:0px;
   word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }

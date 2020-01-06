@@ -3,11 +3,16 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .box_1 {
+}
+._形状 {
 }
 ._图片 {
 }
@@ -63,7 +68,12 @@
 ._文本段落 {
   text-align:left;
 }
-._形状 {
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._形状1 {
 }
 .text_field {
   color:#000000;
@@ -161,7 +171,7 @@
 .table_cell {
 }
 .iconfont {
-  font-family:'iconfont Regular', 'iconfont';
+  font-family:'iconfont ', 'iconfont';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -173,3 +183,4 @@
 }
 .connector {
 }
+textarea, select, input, button { outline: none; }
