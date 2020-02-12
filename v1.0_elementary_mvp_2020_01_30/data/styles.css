@@ -14,6 +14,15 @@
 }
 .box_2 {
 }
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.horizontal_line {
+}
 .shape {
 }
 .box_3 {
@@ -130,7 +139,7 @@
 .paragraph1 {
   text-align:left;
 }
-.heading_1 {
+.heading_11 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
@@ -160,5 +169,12 @@
 .label1 {
   font-size:14px;
   text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.vertical_line {
+}
+.table {
 }
 textarea, select, input, button { outline: none; }
