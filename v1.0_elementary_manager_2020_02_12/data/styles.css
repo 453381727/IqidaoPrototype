@@ -64,6 +64,10 @@
   color:#333333;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
   color:#333333;
   text-align:left;
@@ -72,6 +76,8 @@
   color:#999999;
 }
 ._表单禁用 {
+}
+.icon {
 }
 ._文本链接 {
   color:#0000FF;
@@ -324,8 +330,6 @@
 }
 ._鼠标按下文本链接时 {
 }
-.icon {
-}
 ._图片1 {
   color:#000000;
 }
@@ -377,10 +381,6 @@
   text-align:center;
 }
 ._形状3 {
-}
-.label {
-  font-size:14px;
-  text-align:left;
 }
 .line1 {
 }
