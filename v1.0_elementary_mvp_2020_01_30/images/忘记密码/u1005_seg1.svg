@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1984 1892  20 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1994 1854  L 1994 1901  " stroke-width="2" stroke-dasharray="6,2" stroke="#0099cc" fill="none" />
-  <path d="M 1998.29289321881 1895.89289321881  L 1994 1900.18578643763  L 1989.70710678119 1895.89289321881  L 1988.29289321881 1897.30710678119  L 1993.29289321881 1902.30710678119  L 1994 1903.01421356237  L 1994.70710678119 1902.30710678119  L 1999.70710678119 1897.30710678119  L 1998.29289321881 1895.89289321881  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="2087 1031  20 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip59">
+      <path d="M 2056 1026  L 2088 1026  L 2088 1054  L 2056 1054  Z M 2044 1026  L 2109 1026  L 2109 1054  L 2044 1054  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 2056 1040  L 2044 1040  M 2088 1040  L 2097 1040  " stroke-width="2" stroke-dasharray="6,2" stroke="#0099cc" fill="none" />
+  <path d="M 2091.89289321881 1035.70710678119  L 2096.18578643763 1040  L 2091.89289321881 1044.29289321881  L 2093.30710678119 1045.70710678119  L 2098.30710678119 1040.70710678119  L 2099.01421356237 1040  L 2098.30710678119 1039.29289321881  L 2093.30710678119 1034.29289321881  L 2091.89289321881 1035.70710678119  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" mask="url(#clip59)" />
 </svg>
